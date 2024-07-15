@@ -38,11 +38,19 @@ Requirements: flask, flask_sqlalchemy
 Command: 
 ```python app.py```
 
+
+
 Run the MynCraft Whiteboard:
 
 ```cd myntra-whiteboard/client```
+
+
 ```npm i```
+
+
 ```npm run dev```
+
+
 
 Run the Home Page:
 
