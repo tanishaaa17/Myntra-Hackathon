@@ -1,0 +1,102 @@
+/* fonts.css */
+
+@font-face {
+  font-family: 'Arial';
+  src: local('Arial'), local('Arial-Regular'), url('path/to/arial.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Courier New';
+  src: local('Courier New'), local('CourierNew'), url('path/to/courier-new.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Georgia';
+  src: local('Georgia'), local('Georgia-Regular'), url('path/to/georgia.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Times New Roman';
+  src: local('Times New Roman'), local('TimesNewRoman'), url('path/to/times-new-roman.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Verdana';
+  src: local('Verdana'), local('Verdana-Regular'), url('path/to/verdana.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Helvetica';
+  src: local('Helvetica'), local('Helvetica-Regular'), url('path/to/helvetica.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Tahoma';
+  src: local('Tahoma'), local('Tahoma-Regular'), url('path/to/tahoma.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Trebuchet MS';
+  src: local('Trebuchet MS'), local('TrebuchetMS'), url('path/to/trebuchet-ms.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Lucida Sans Unicode';
+  src: local('Lucida Sans Unicode'), local('LucidaSansUnicode'), url('path/to/lucida-sans-unicode.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Palatino Linotype';
+  src: local('Palatino Linotype'), local('PalatinoLinotype'), url('path/to/palatino-linotype.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Impact';
+  src: local('Impact'), local('Impact-Regular'), url('path/to/impact.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Comic Sans MS';
+  src: local('Comic Sans MS'), local('ComicSansMS'), url('path/to/comic-sans-ms.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Garamond';
+  src: local('Garamond'), local('Garamond-Regular'), url('path/to/garamond.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Bookman';
+  src: local('Bookman'), local('Bookman-Regular'), url('path/to/bookman.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Arial Black';
+  src: local('Arial Black'), local('ArialBlack'), url('path/to/arial-black.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Gill Sans';
+  src: local('Gill Sans'), local('GillSans'), url('path/to/gill-sans.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Century Gothic';
+  src: local('Century Gothic'), local('CenturyGothic'), url('path/to/century-gothic.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Lucida Console';
+  src: local('Lucida Console'), local('LucidaConsole'), url('path/to/lucida-console.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Franklin Gothic Medium';
+  src: local('Franklin Gothic Medium'), local('FranklinGothicMedium'), url('path/to/franklin-gothic-medium.woff2') format('woff2');
+}
+
+/* Fallback fonts */
+
+body {
+  font-family: 'Arial', sans-serif; /* Default font family */
+}

@@ -1,0 +1,25 @@
+.filter-options {
+    .option-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px; /* Adjust spacing between images */
+    }
+  
+    .option-image {
+      width: 50px; /* Adjust width to make images smaller */
+      height: 50px; /* Adjust height to make images smaller */
+      object-fit: cover;
+      cursor: pointer;
+      border: 2px solid transparent;
+      transition: border-color 0.3s ease;
+  
+      &.selected {
+        border-color: #000; /* Color for selected option */
+      }
+  
+      &:hover {
+        border-color: #aaa; /* Color on hover */
+      }
+    }
+  }
+  
