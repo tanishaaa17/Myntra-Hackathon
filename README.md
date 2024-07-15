@@ -32,6 +32,24 @@ Git installed on your machine.
 
 Installation:
 
+Run the BackEnd Server:
+
+Requirements: flask, flask_sqlalchemy
+Command: 
+'''python app.py'''
+
+Run the MynCraft Whiteboard:
+
+'''cd myntra-whiteboard/client'''
+'''npm i'''
+'''npm run dev'''
+
+Run the Home Page:
+
+Run the Live Server on index2.html
+
+Enjoy your stay on our website!!
+
 
 Contributors
 Tanisha Agarwal
